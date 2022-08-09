@@ -11,7 +11,7 @@ using ProdutosAPI.Data;
 namespace ProdutosAPI.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20220804235354_Root")]
+    [Migration("20220809015823_Root")]
     partial class Root
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
